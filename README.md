@@ -5,3 +5,4 @@ It can be utilized for training and benchmarking unified Pavement Condition Inde
 
 # Sample Annotations
 
+![](https://github.com/neemajakisa/Pavement-Distress-Dataset/blob/main/sample_annts.gif)
