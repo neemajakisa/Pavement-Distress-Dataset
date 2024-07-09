@@ -13,4 +13,4 @@ The annotations are stored in JSON files.
 ![](https://github.com/neemajakisa/Pavement-Distress-Dataset/blob/main/sample_annts.gif)
 
 # Cite
-Was this helpful?  [paper]([(https://doi.org/10.48550/arXiv.2310.08538))
+Was this helpful? Cite[ paper]([url](https://doi.org/10.48550/arXiv.2310.08538))
